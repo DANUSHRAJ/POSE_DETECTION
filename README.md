@@ -1,7 +1,6 @@
 # POSE_DETECTION
 
-https://user-images.githubusercontent.com/60309916/122158366-2bc3e800-ce8a-11eb-83e0-25d2da4e82aa.mp4
+![pos11](https://user-images.githubusercontent.com/60309916/122158624-9d9c3180-ce8a-11eb-8c0a-ad823cfa0d0a.gif)
+![pos12](https://user-images.githubusercontent.com/60309916/122158647-a42aa900-ce8a-11eb-83dd-28801980de70.gif)
 
-
-https://user-images.githubusercontent.com/60309916/122158404-3bdbc780-ce8a-11eb-97f8-e49d83d5b3f9.mp4
 
